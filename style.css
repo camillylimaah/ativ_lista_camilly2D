@@ -1,0 +1,40 @@
+main {background-color: rgb(33, 110, 49);
+      margin-left: 5%;
+      margin-right: 10%;
+      
+}
+
+header { font-size: 140%;
+         color: rgb(0, 252, 0);
+         margin-left: 0,5%;
+         border-color: black;
+         border-left: 6px;
+         border-style: dotted;
+}
+
+footer {background-color:  rgb(0, 140, 255);
+         margin-left: 4%;
+         margin-right: 10%;
+         border-color: black;
+         border-left: 2%;
+         
+
+}
+
+
+h2 {color: rgb(0, 0, 0);
+    margin-left: 40%;
+}
+h3 {color: rgb(26, 54, 22);
+    margin-left: 32%;
+}
+
+h4 { color: rgb(13, 3, 68);
+margin-left: 39%;}
+
+
+#ima1 { border-style: dotted;
+       margin-left: 35%;}
+
+       #ima2 { border-style: dotted;
+               margin-left: 35%;}
